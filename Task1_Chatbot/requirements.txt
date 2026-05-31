@@ -1,1 +1,4 @@
-abc
+#This project uses only Python built-in libraries
+#No installation required
+#No external dependencies required
+python>=3.6
