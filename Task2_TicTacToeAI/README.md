@@ -24,6 +24,7 @@ This project implements an AI-powered Tic-Tac-Toe game using Python. The game al
 
 The AI analyzes all possible future game states using the Minimax algorithm. It assigns scores to possible outcomes and always selects the optimal move, ensuring the best possible performance.
 
+
 ## How to Run
 
 1. Install Python 3 on your system.
@@ -31,15 +32,21 @@ The AI analyzes all possible future game states using the Minimax algorithm. It 
 3. Open a terminal in the project folder.
 4. Run the following command:
 
+```bash
+python tic_tac_toe_ai.py
+```
+
 ## Game Instructions
 
 Position Mapping:
 
+```text
 1 | 2 | 3
 ---------
 4 | 5 | 6
 ---------
 7 | 8 | 9
+```
 
 * Human Player = X
 * AI Player = O
@@ -48,6 +55,7 @@ Position Mapping:
 
 ## Sample Output
 
+```text
 Tic-Tac-Toe AI
 Human = X
 AI = O
@@ -59,6 +67,8 @@ X |   |
   | O |
 ---------
   |   |
+
+```
 
 ## Learning Outcomes
 
