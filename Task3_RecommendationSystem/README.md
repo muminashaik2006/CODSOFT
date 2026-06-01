@@ -70,9 +70,9 @@ Depending on the selected decade, the following genres are available:
 
 ## Sample Output
 
-============================================================
+
 TELUGU AND ENGLISH BOOK RECOMMENDATION SYSTEM
-=================================
+
 
 Available Decades:
 
