@@ -70,9 +70,9 @@ Depending on the selected decade, the following genres are available:
 
 ## Sample Output
 
-
-TELUGU AND ENGLISH BOOK RECOMMENDATION SYSTEM
-
+=================================
+TELUGU BOOK RECOMMENDATION SYSTEM
+=================================
 
 Available Decades:
 
@@ -105,7 +105,6 @@ Recommended Technology Books from 2020s:
 📚 Cyber Security | ⭐ Rating: 4.7/5
 
 ---
-
 
 ## Future Enhancements
 
