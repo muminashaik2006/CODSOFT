@@ -1,4 +1,4 @@
-# Telugu Book Recommendation System
+# Telugu and English Book Recommendation System
 
 ## Overview
 
