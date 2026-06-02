@@ -12,7 +12,7 @@ This project implements an AI-powered Tic-Tac-Toe game where a user competes aga
 
 ---
 
-### Task 3: Recommendation System
+### Task 4: Recommendation System
 
 **Description:**
 This project is a recommendation system that suggests books based on user preferences such as genre and publication year. It analyzes user choices and provides relevant recommendations from a predefined collection. The project demonstrates the basic principles of recommendation engines and personalized content suggestions. 
