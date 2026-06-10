@@ -1,7 +1,4 @@
-Programming Language
 Python 3.x
-Development Environment
 Jupyter Notebook / Google Colab
 VS Code (Optional)
-Libraries Required
 No external libraries required.
