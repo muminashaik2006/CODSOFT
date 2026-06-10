@@ -1,0 +1,4 @@
+Python 3.x
+Jupyter Notebook / Google Colab
+OpenCV (cv2)
+NumPy
