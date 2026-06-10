@@ -1,5 +1,10 @@
-# No external dependencies required
-
-# Developed using Python 3
-
-Python>=3.8
+Software Requirements
+Python 3.x
+Jupyter Notebook / Google Colab / VS Code
+Functional Requirements
+Two-player gameplay
+3×3 game board display
+User move validation
+Win detection
+Draw detection
+Game restart option
