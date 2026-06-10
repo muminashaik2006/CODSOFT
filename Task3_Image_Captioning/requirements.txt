@@ -1,1 +1,6 @@
-abc
+Python 3.x
+Google Colab / Jupyter Notebook
+TensorFlow
+NumPy
+Matplotlib
+PIL (Pillow)
