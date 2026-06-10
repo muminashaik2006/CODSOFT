@@ -1,4 +1,7 @@
-#This project uses only Python built-in libraries
-#No installation required
-#No external dependencies required
-python>=3.6
+Programming Language
+Python 3.x
+Development Environment
+Jupyter Notebook / Google Colab
+VS Code (Optional)
+Libraries Required
+No external libraries required.
