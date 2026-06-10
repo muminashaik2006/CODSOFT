@@ -28,8 +28,6 @@ The chatbot demonstrates the fundamentals of chatbot development using condition
 
 ---
 
----
-
 ## How to Run
 
 ### Step 1
